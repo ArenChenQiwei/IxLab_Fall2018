@@ -4,7 +4,7 @@
 ArrayList<Ball> balls = new ArrayList<Ball>();
 
 void setup() {
-  size(600, 600);
+  size(800, 800);
   noStroke();
   pixelDensity(displayDensity());
 }
